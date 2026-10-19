@@ -20,23 +20,6 @@
     "tags": "هودی مردانه، استایل روزمره، لباس پاییزه"
   },
   {
-    "id": "jacket",
-    "name": "رویه پاییزه",
-    "en": "OUTERWEAR / 03",
-    "desc": "یک لایه کاربردی برای استایل پاییزه. برای دریافت جزئیات جنس و موجودی با اهورا پیام بده.",
-    "shape": "jacket",
-    "color": "olive",
-    "label": "زیتونی",
-    "image": "",
-    "images": {},
-    "slug": "ahura-autumn-outerwear",
-    "brand": "AHURA",
-    "seoTitle": "رویه پاییزه مردانه | AHURA",
-    "metaDescription": "رویه پاییزه مردانه AHURA؛ یک لایه کاربردی برای استایل پاییزی با امکان استعلام موجودی و سفارش مستقیم.",
-    "imageAlt": "رویه پاییزه مردانه AHURA رنگ زیتونی",
-    "tags": "رویه مردانه، لباس پاییزه، استایل مردانه"
-  },
-  {
     "id": "los-angeles-half-zip",
     "images": {
       "white": "assets/products/los-angeles-half-zip-LOS-ANGELES-HALF-ZIP.png"
