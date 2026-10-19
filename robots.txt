@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Sitemap: https://mjmz68.github.io/ahura-virtual-boutique/sitemap.xml
