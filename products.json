@@ -1,6 +1,56 @@
 [
-  {"id":"hoodie","name":"هودی پاییزه","en":"HOODIE / 01","desc":"یک انتخاب راحت برای استایل روزمره و روزهای خنک. برای اطلاع از جنس، قیمت و موجودی دقیق با اهورا در ارتباط باش.","shape":"hoodie","color":"charcoal","label":"مشکی","image":"assets/products/hoodie-black.png","images":{"charcoal":"assets/products/hoodie-black.png","gray":"assets/products/hoodie-gray.png"}},
-  {"id":"sweat","name":"دورس سه‌نخ","en":"SWEATSHIRT / 02","desc":"دورس مناسب استایل روزمره و لایه‌پوشی در فصل خنک. رنگ، سایز و موجودی نهایی را هنگام سفارش بررسی کن.","shape":"sweat","color":"stone","label":"سنگی","image":"","images":{}},
-  {"id":"jacket","name":"رویه پاییزه","en":"OUTERWEAR / 03","desc":"یک لایه کاربردی برای استایل پاییزه. برای دریافت جزئیات جنس و موجودی با اهورا پیام بده.","shape":"jacket","color":"olive","label":"زیتونی","image":"","images":{}}
+  {
+    "id": "hoodie",
+    "name": "هودی پاییزه",
+    "en": "HOODIE / 01",
+    "desc": "یک انتخاب راحت برای استایل روزمره و روزهای خنک. برای اطلاع از جنس، قیمت و موجودی دقیق با اهورا در ارتباط باش.",
+    "shape": "hoodie",
+    "color": "charcoal",
+    "label": "مشکی",
+    "image": "assets/products/hoodie-black.png",
+    "images": {
+      "charcoal": "assets/products/hoodie-black.png",
+      "gray": "assets/products/hoodie-gray.png"
+    },
+    "slug": "ahura-autumn-hoodie",
+    "brand": "AHURA",
+    "seoTitle": "هودی پاییزه مردانه | AHURA",
+    "metaDescription": "هودی پاییزه مردانه AHURA با طراحی راحت و مناسب استایل روزمره. رنگ و سایز را انتخاب کنید و برای سفارش پیام دهید.",
+    "imageAlt": "هودی پاییزه مردانه AHURA رنگ مشکی",
+    "tags": "هودی مردانه، استایل روزمره، لباس پاییزه"
+  },
+  {
+    "id": "sweat",
+    "name": "دورس سه‌نخ",
+    "en": "SWEATSHIRT / 02",
+    "desc": "دورس مناسب استایل روزمره و لایه‌پوشی در فصل خنک. رنگ، سایز و موجودی نهایی را هنگام سفارش بررسی کن.",
+    "shape": "sweat",
+    "color": "stone",
+    "label": "سنگی",
+    "image": "",
+    "images": {},
+    "slug": "ahura-three-thread-sweatshirt",
+    "brand": "AHURA",
+    "seoTitle": "دورس سه‌نخ مردانه | AHURA",
+    "metaDescription": "دورس سه‌نخ مردانه AHURA برای استایل روزمره و لایه‌پوشی در فصل خنک؛ دریافت قیمت و موجودی از طریق تلگرام.",
+    "imageAlt": "دورس سه‌نخ مردانه AHURA رنگ سنگی",
+    "tags": "دورس مردانه، سه‌نخ، لباس پاییزه"
+  },
+  {
+    "id": "jacket",
+    "name": "رویه پاییزه",
+    "en": "OUTERWEAR / 03",
+    "desc": "یک لایه کاربردی برای استایل پاییزه. برای دریافت جزئیات جنس و موجودی با اهورا پیام بده.",
+    "shape": "jacket",
+    "color": "olive",
+    "label": "زیتونی",
+    "image": "",
+    "images": {},
+    "slug": "ahura-autumn-outerwear",
+    "brand": "AHURA",
+    "seoTitle": "رویه پاییزه مردانه | AHURA",
+    "metaDescription": "رویه پاییزه مردانه AHURA؛ یک لایه کاربردی برای استایل پاییزی با امکان استعلام موجودی و سفارش مستقیم.",
+    "imageAlt": "رویه پاییزه مردانه AHURA رنگ زیتونی",
+    "tags": "رویه مردانه، لباس پاییزه، استایل مردانه"
+  }
 ]
-
