@@ -1,0 +1,6 @@
+[
+  {"id":"hoodie","name":"هودی پاییزه","en":"HOODIE / 01","desc":"یک انتخاب راحت برای استایل روزمره و روزهای خنک. برای اطلاع از جنس، قیمت و موجودی دقیق با اهورا در ارتباط باش.","shape":"hoodie","color":"charcoal","label":"مشکی","image":"assets/products/hoodie-black.png","images":{"charcoal":"assets/products/hoodie-black.png","gray":"assets/products/hoodie-gray.png"}},
+  {"id":"sweat","name":"دورس سه‌نخ","en":"SWEATSHIRT / 02","desc":"دورس مناسب استایل روزمره و لایه‌پوشی در فصل خنک. رنگ، سایز و موجودی نهایی را هنگام سفارش بررسی کن.","shape":"sweat","color":"stone","label":"سنگی","image":"","images":{}},
+  {"id":"jacket","name":"رویه پاییزه","en":"OUTERWEAR / 03","desc":"یک لایه کاربردی برای استایل پاییزه. برای دریافت جزئیات جنس و موجودی با اهورا پیام بده.","shape":"jacket","color":"olive","label":"زیتونی","image":"","images":{}}
+]
+
