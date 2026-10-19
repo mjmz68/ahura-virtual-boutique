@@ -17,7 +17,11 @@
     "seoTitle": "هودی پاییزه مردانه | AHURA",
     "metaDescription": "هودی پاییزه مردانه AHURA با طراحی راحت و مناسب استایل روزمره. رنگ و سایز را انتخاب کنید و برای سفارش پیام دهید.",
     "imageAlt": "هودی پاییزه مردانه AHURA رنگ مشکی",
-    "tags": "هودی مردانه، استایل روزمره، لباس پاییزه"
+    "tags": "هودی مردانه، استایل روزمره، لباس پاییزه",
+    "colors": [
+      "charcoal",
+      "gray"
+    ]
   },
   {
     "id": "los-angeles-half-zip",
@@ -36,6 +40,9 @@
     "metaDescription": "دورس نیم‌زیپ مردانه AHURA با ترکیب رنگ سفید و آبی کاربنی و طراحی لس‌آنجلس؛ مناسب استایل کژوال و پاییزی. برای قیمت و موجودی پیام دهید.",
     "imageAlt": "دورس نیم‌زیپ مردانه سفید و آبی لس‌آنجلس AHURA",
     "tags": "دورس نیم‌زیپ، سویشرت مردانه، لس‌آنجلس، سفید و آبی، استایل کژوال، لباس پاییزی",
-    "image": "assets/products/los-angeles-half-zip-LOS-ANGELES-HALF-ZIP.png"
+    "image": "assets/products/los-angeles-half-zip-LOS-ANGELES-HALF-ZIP.png",
+    "colors": [
+      "white"
+    ]
   }
 ]
