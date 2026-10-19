@@ -52,5 +52,24 @@
     "metaDescription": "رویه پاییزه مردانه AHURA؛ یک لایه کاربردی برای استایل پاییزی با امکان استعلام موجودی و سفارش مستقیم.",
     "imageAlt": "رویه پاییزه مردانه AHURA رنگ زیتونی",
     "tags": "رویه مردانه، لباس پاییزه، استایل مردانه"
+  },
+  {
+    "id": "los-angeles-half-zip",
+    "images": {
+      "white": "assets/products/los-angeles-half-zip-LOS-ANGELES-HALF-ZIP.png"
+    },
+    "name": "دورس نیم‌زیپ لس‌آنجلس",
+    "en": "LOS ANGELES HALF-ZIP",
+    "desc": "دورس نیم‌زیپ با ترکیب رنگ سفید و آبی کاربنی، یقه ایستاده و جیب کانگورویی؛ انتخابی راحت برای استایل کژوال روزمره و فصول سرد سال.",
+    "shape": "sweat",
+    "color": "white",
+    "label": "سفید و آبی کاربنی",
+    "slug": "ahura-los-angeles-half-zip-sweatshirt",
+    "brand": "AHURA",
+    "seoTitle": "دورس نیم‌زیپ لس‌آنجلس مردانه | AHURA",
+    "metaDescription": "دورس نیم‌زیپ مردانه AHURA با ترکیب رنگ سفید و آبی کاربنی و طراحی لس‌آنجلس؛ مناسب استایل کژوال و پاییزی. برای قیمت و موجودی پیام دهید.",
+    "imageAlt": "دورس نیم‌زیپ مردانه سفید و آبی لس‌آنجلس AHURA",
+    "tags": "دورس نیم‌زیپ، سویشرت مردانه، لس‌آنجلس، سفید و آبی، استایل کژوال، لباس پاییزی",
+    "image": "assets/products/los-angeles-half-zip-LOS-ANGELES-HALF-ZIP.png"
   }
 ]
