@@ -39,3 +39,16 @@
 /* Regatta-inspired product information: ratings, feature chips and support */
 .product-meta{display:flex;align-items:center;flex-wrap:wrap;gap:9px;margin:-6px 0 14px;color:var(--muted);font-size:10px}.product-meta span{display:inline-flex;align-items:center;min-height:27px;padding:4px 9px;border:1px solid var(--line);border-radius:999px}.product-meta #product-rating{color:var(--gold);border-color:#c7a36d66}.product-highlights{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 16px}.product-highlights span{padding:6px 9px;border-radius:9px;background:var(--glass);color:var(--muted);font-size:10px}.inline-support{color:var(--gold);text-decoration:underline;text-underline-offset:3px}.product-accordions details:last-child p{line-height:2}.product-accordions p a{font-weight:500}
 @media(max-width:720px){.product-meta{gap:6px;margin-top:-2px}.product-highlights{gap:6px}.product-highlights span{font-size:9px;padding:6px 8px}.product-accordions details{padding:12px 0}}
+
+/* Compact category picker inspired by Webpoosh's grouped filters */
+.category-filter-group{width:100%;margin:0 0 14px;border:1px solid var(--line);border-radius:16px;background:var(--glass);overflow:hidden}
+.category-filter-group>summary{list-style:none;display:flex;align-items:center;gap:10px;padding:13px 12px;cursor:pointer;color:var(--text);font-size:12px}
+.category-filter-group>summary::-webkit-details-marker{display:none}
+.category-filter-group>summary::after{content:"⌄";margin-inline-start:auto;color:var(--gold);font-size:16px;transition:transform .2s}
+.category-filter-group[open]>summary{border-bottom:1px solid var(--line)}
+.category-filter-group[open]>summary::after{transform:rotate(180deg)}
+.category-summary-value{margin-inline-start:auto;color:var(--gold);font-size:11px}
+.category-filter-group[open] .category-summary-value{margin-inline-start:0}
+.category-filter-options{padding:8px 10px 11px}
+.category-filter-options .filter{margin:3px 0}
+@media(max-width:720px){.layout aside>.category-filter-group{width:100%;margin:0 0 5px}.category-filter-options{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}.category-filter-options .filter{width:100%;justify-content:center;margin:0;padding:9px 5px;font-size:11px}}
